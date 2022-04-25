@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+#apps{
+    background-color: rgb(180, 245, 245);
+}
+
+#games{
+    background-color: cornsilk;
+}
+
+img{
+    height: 300px;
+    width: 250px;
+    margin:10px ;
+    transition: transform .3s;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+#chatbot{
+    background-color: rgb(184, 160, 202);
+    margin-bottom: 10px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
